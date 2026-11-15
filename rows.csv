@@ -1,0 +1,13 @@
+biz_id,name,city,amount,status
+B001,张三,长春,1200,normal
+B002,李四,吉林,800,normal
+B003,王五,四平,1500,normal
+B001,张三,长春,1200,normal
+B004,赵六,长春,2300,normal
+B005,,通化,900,normal
+B006,孙七孙七孙七孙七孙七孙七孙七孙七孙七孙七孙七孙七孙七孙七孙七孙七孙七孙七孙七孙七孙七孙七孙七孙七孙七孙七孙七孙七孙七孙七,白城,1100,normal
+B007,周八,松原,abc,normal
+B008,吴九,辽源,700,unknown
+B009,郑十,白山,1300,normal
+B010,王五,四平,1500,normal
+B011,冯十一,长春,1600,normal
