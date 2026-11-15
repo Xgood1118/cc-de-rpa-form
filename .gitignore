@@ -4,4 +4,7 @@ __pycache__/
 submission/
 target.db
 target_test.db
+rpa_state.db
+rpa_state.db-wal
+rpa_state.db-shm
 out.dot

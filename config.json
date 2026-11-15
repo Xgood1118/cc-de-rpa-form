@@ -1,0 +1,12 @@
+{
+  "required": ["biz_id", "name", "city", "amount", "status"],
+  "max_length": {
+    "biz_id": 32,
+    "name": 20,
+    "city": 10
+  },
+  "enum": {
+    "status": ["normal", "vip"]
+  },
+  "numeric": ["amount"]
+}
